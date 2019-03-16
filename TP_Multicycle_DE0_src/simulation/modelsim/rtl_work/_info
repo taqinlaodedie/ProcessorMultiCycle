@@ -1,0 +1,578 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/simulation/modelsim
+Earm
+Z1 w1552500851
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/arm.vhd
+Z5 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/arm.vhd
+l0
+L12
+V0<nlPJg22Xl0jWMflH2mH0
+!s100 hjhdh87Z7BlN:E30B_JDX0
+Z6 OP;C;10.4a;61
+31
+Z7 !s110 1552746067
+!i10b 1
+Z8 !s108 1552746067.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/arm.vhd|
+Z10 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/arm.vhd|
+!i113 1
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Aarc_arm
+R2
+R3
+DEx4 work 3 arm 0 22 0<nlPJg22Xl0jWMflH2mH0
+l141
+L21
+V^0i=zz7>O`VUnlN3`@H3h2
+!s100 E1dbUClJSSM:aUK3PYhMT0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebancderegistres
+Z13 w1552500835
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z15 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/BancDeRegistres.vhd
+Z16 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/BancDeRegistres.vhd
+l0
+L7
+V;f>5U6B[]Wz<HkM84X@RS3
+!s100 93Y2b?PC?aloCk<iHB]@]2
+R6
+31
+Z17 !s110 1552746066
+!i10b 1
+Z18 !s108 1552746066.000000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/BancDeRegistres.vhd|
+Z20 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/BancDeRegistres.vhd|
+!i113 1
+R11
+R12
+Artl
+R14
+R2
+R3
+DEx4 work 15 bancderegistres 0 22 ;f>5U6B[]Wz<HkM84X@RS3
+l33
+L16
+Vceioz9ogS_c=idNMJTAkM1
+!s100 jL0cTz2ghS1_EQPLI^3]G1
+R6
+31
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Edatapath
+Z21 w1552500832
+Z22 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z23 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R2
+R3
+R0
+Z24 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/DataPath.vhd
+Z25 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/DataPath.vhd
+l0
+L14
+V5FWBI829XKFi`F05oE3Ck2
+!s100 egS`Z;Q`V7Ri`b_OjQgSC2
+R6
+31
+R17
+!i10b 1
+R18
+Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/DataPath.vhd|
+Z27 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/DataPath.vhd|
+!i113 1
+R11
+R12
+Aarchi
+R22
+R23
+R2
+R3
+DEx4 work 8 datapath 0 22 5FWBI829XKFi`F05oE3Ck2
+l227
+L62
+VDIc0`i4TEKek_F;cAJ:`d2
+!s100 SJ68DI5lAjGjM^K8<WU0z3
+R6
+31
+R17
+!i10b 1
+R18
+R26
+R27
+!i113 1
+R11
+R12
+Ede0_top
+Z28 w1551872581
+R2
+R3
+R0
+Z29 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/DE0_TOP.vhd
+Z30 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/DE0_TOP.vhd
+l0
+L11
+Vde[icN<IcD;<0]o]SAj<C1
+!s100 SWclMfgWAi4>XfD>02dYM2
+R6
+31
+R17
+!i10b 1
+R18
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/DE0_TOP.vhd|
+Z32 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/DE0_TOP.vhd|
+!i113 1
+R11
+R12
+Aarchi
+R2
+R3
+DEx4 work 7 de0_top 0 22 de[icN<IcD;<0]o]SAj<C1
+l41
+L25
+VEX^O`Hf@fZ?zU[2K]DOn81
+!s100 EC44YFMlg9E9DLb6@oBCM2
+R6
+31
+R17
+!i10b 1
+R18
+R31
+R32
+!i113 1
+R11
+R12
+Eextentiondesigne
+R28
+R14
+R2
+R3
+R0
+Z33 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/ExtentionDeSigne.vhd
+Z34 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/ExtentionDeSigne.vhd
+l0
+L5
+V[d:UC@88iMo;Q`b6c[5L;1
+!s100 ^_U8gLNS3L>l:MmOX;UMl0
+R6
+31
+R17
+!i10b 1
+R18
+Z35 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/ExtentionDeSigne.vhd|
+Z36 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/ExtentionDeSigne.vhd|
+!i113 1
+R11
+R12
+Artl
+R14
+R2
+R3
+DEx4 work 16 extentiondesigne 0 22 [d:UC@88iMo;Q`b6c[5L;1
+l14
+L13
+V?6YzN`eHQ1>zDoASSlaZI0
+!s100 HL@dH4WP6=aC6li91TbFZ2
+R6
+31
+R17
+!i10b 1
+R18
+R35
+R36
+!i113 1
+R11
+R12
+Emae
+Z37 w1552746020
+R14
+R2
+R3
+R0
+Z38 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/MAE.vhd
+Z39 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/MAE.vhd
+l0
+L5
+V:bA8KgB@<:4AJcQ@gfb191
+!s100 4;DnmALl:aa8Ri=djf0fk1
+R6
+31
+R7
+!i10b 1
+R8
+Z40 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/MAE.vhd|
+Z41 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/MAE.vhd|
+!i113 1
+R11
+R12
+Abehav
+R14
+R2
+R3
+DEx4 work 3 mae 0 22 :bA8KgB@<:4AJcQ@gfb191
+l18
+L13
+V^8bkGg@iU:;1JBh3ZBF4I0
+!s100 7>;eT4J662U?@FdB7I]A:2
+R6
+31
+R7
+!i10b 1
+R8
+R40
+R41
+!i113 1
+R11
+R12
+Emem64
+Z42 w1552599144
+R2
+R3
+R0
+Z43 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/mem64.vhd
+Z44 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/mem64.vhd
+l0
+L42
+VIiBZDl7]?Mhcj`_XnKUWf1
+!s100 iHC8PX=3;<Xk;8M<Q_1OL3
+R6
+31
+R7
+!i10b 1
+R8
+Z45 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/mem64.vhd|
+Z46 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/mem64.vhd|
+!i113 1
+R11
+R12
+Asyn
+R2
+R3
+DEx4 work 5 mem64 0 22 IiBZDl7]?Mhcj`_XnKUWf1
+l97
+L56
+Vo6JRG7aGaUFg:U3deQ1>c0
+!s100 9dX0e]RdcL8jPYabELRTn3
+R6
+31
+R7
+!i10b 1
+R8
+R45
+R46
+!i113 1
+R11
+R12
+Emultiplexeur2
+R28
+R14
+R2
+R3
+R0
+Z47 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/Multiplexeur2.vhd
+Z48 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/Multiplexeur2.vhd
+l0
+L5
+V:h]TYF<=RI@k23`1jeHdC3
+!s100 ofDg67AfX34IZHFWbdz?a1
+R6
+31
+R17
+!i10b 1
+R18
+Z49 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/Multiplexeur2.vhd|
+Z50 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/Multiplexeur2.vhd|
+!i113 1
+R11
+R12
+Artl
+R14
+R2
+R3
+DEx4 work 13 multiplexeur2 0 22 :h]TYF<=RI@k23`1jeHdC3
+l14
+L13
+VJhZdRAVVXndJU;3Bc>LB60
+!s100 D@<:LTUM3f9??VMLc4kW82
+R6
+31
+R17
+!i10b 1
+R18
+R49
+R50
+!i113 1
+R11
+R12
+Emux4
+R28
+R14
+R2
+R3
+R0
+Z51 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/MUX4.vhd
+Z52 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/MUX4.vhd
+l0
+L5
+VQ@<nNAVICog6oIV24dPKJ1
+!s100 0hN8ei?af9>1_Ek0Eb2l=3
+R6
+31
+Z53 !s110 1552746065
+!i10b 1
+Z54 !s108 1552746065.000000
+Z55 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/MUX4.vhd|
+Z56 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/MUX4.vhd|
+!i113 1
+R11
+R12
+Artl
+R14
+R2
+R3
+DEx4 work 4 mux4 0 22 Q@<nNAVICog6oIV24dPKJ1
+l12
+L11
+VAJ=c]Tk`4<G]oOhQ7FR><2
+!s100 e];;]YS<=W]DcT]VO;0gO2
+R6
+31
+R53
+!i10b 1
+R54
+R55
+R56
+!i113 1
+R11
+R12
+Epsr
+Z57 w1552744240
+R14
+R2
+R3
+R0
+Z58 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/PSR.vhd
+Z59 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/PSR.vhd
+l0
+L5
+VJGi5SB7d0cIhf5Xb_iEhW0
+!s100 jd;=Eg[][8Bb[oO7MkOmc0
+R6
+31
+R17
+!i10b 1
+R18
+Z60 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/PSR.vhd|
+Z61 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/PSR.vhd|
+!i113 1
+R11
+R12
+Artl
+R14
+R2
+R3
+DEx4 work 3 psr 0 22 JGi5SB7d0cIhf5Xb_iEhW0
+l13
+L11
+V:@nH<]n=>k8ZgkfYPE>cg2
+!s100 20VIJSSCo<ZJ8U;8OJWg^0
+R6
+31
+R17
+!i10b 1
+R18
+R60
+R61
+!i113 1
+R11
+R12
+Ereg32
+R28
+R14
+R2
+R3
+R0
+Z62 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/Reg32.vhd
+Z63 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/Reg32.vhd
+l0
+L5
+Vh06IGJ55@f>l5`DzH3JRU1
+!s100 [U[F1JA86@1Wd9<?BAb>V2
+R6
+31
+R53
+!i10b 1
+R54
+Z64 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/Reg32.vhd|
+Z65 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/Reg32.vhd|
+!i113 1
+R11
+R12
+Artl
+R14
+R2
+R3
+DEx4 work 5 reg32 0 22 h06IGJ55@f>l5`DzH3JRU1
+l13
+L11
+VUH5EG94AYBJ]E[bJ38B6J1
+!s100 YelT;ViR0Om945PmNfaIa0
+R6
+31
+R53
+!i10b 1
+R54
+R64
+R65
+!i113 1
+R11
+R12
+Etest_arm
+R28
+R2
+R3
+R0
+Z66 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/test_arm.vhd
+Z67 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/test_arm.vhd
+l0
+L4
+V6iR76z5`b?;DEI^ieQ>Vf1
+!s100 ;khPnk1V9f@[jB4K3?e]30
+R6
+31
+R7
+!i10b 1
+R8
+Z68 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/test_arm.vhd|
+Z69 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/test_arm.vhd|
+!i113 1
+R11
+R12
+Aarc_test_arm
+R2
+R3
+DEx4 work 8 test_arm 0 22 6iR76z5`b?;DEI^ieQ>Vf1
+l27
+L7
+Vme6fM5dd>[]Qi]n`Cd>9H3
+!s100 2EN9N4lB@C_TDb4mSC6730
+R6
+31
+R7
+!i10b 1
+R8
+R68
+R69
+!i113 1
+R11
+R12
+Eual
+Z70 w1552743973
+R14
+R2
+R3
+R0
+Z71 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/UAL.vhd
+Z72 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/UAL.vhd
+l0
+L5
+VYHF:lL3_TYMGE^H`gSQ_b2
+!s100 GcfLYT:8mznkD]6`079n60
+R6
+31
+R17
+!i10b 1
+R18
+Z73 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/UAL.vhd|
+Z74 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/UAL.vhd|
+!i113 1
+R11
+R12
+Artl
+R14
+R2
+R3
+DEx4 work 3 ual 0 22 YHF:lL3_TYMGE^H`gSQ_b2
+l14
+L12
+VEXVK4nz>kg6^X>K;gn6hz1
+!s100 nEF<=7GjiMG=`j8jW;:C60
+R6
+31
+R17
+!i10b 1
+R18
+R73
+R74
+!i113 1
+R11
+R12
+Evic
+Z75 w1552745173
+R14
+R2
+R3
+R0
+Z76 8C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/VIC.vhd
+Z77 FC:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/VIC.vhd
+l0
+L5
+V4H4jZEdY_VHcflThfo7Wm0
+!s100 XaXT0LZ_iYZ4AlY9WYJgl0
+R6
+31
+R53
+!i10b 1
+R54
+Z78 !s90 -reportprogress|300|-93|-work|work|C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/VIC.vhd|
+Z79 !s107 C:/Users/yuxia/Desktop/ProcessorMultiCycle-master/TP_Multicycle_DE0_src/VIC.vhd|
+!i113 1
+R11
+R12
+Abehav
+R14
+R2
+R3
+DEx4 work 3 vic 0 22 4H4jZEdY_VHcflThfo7Wm0
+l14
+L11
+Vz=Mk=]>:Ce4R0V2Z7o0So2
+!s100 Q^17Q0V<`<FD5F?`S_>G93
+R6
+31
+R53
+!i10b 1
+R54
+R78
+R79
+!i113 1
+R11
+R12

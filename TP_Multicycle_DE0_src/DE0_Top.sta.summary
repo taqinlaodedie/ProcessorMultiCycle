@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -7.590
+TNS   : -740.715
+
+Type  : Slow 1200mV 85C Model Setup 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : -2.205
+TNS   : -2.205
+
+Type  : Slow 1200mV 85C Model Hold 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : -0.458
+TNS   : -0.458
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : -0.021
+TNS   : -0.021
+
+Type  : Slow 1200mV 85C Model Recovery 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : -2.188
+TNS   : -2.188
+
+Type  : Slow 1200mV 85C Model Removal 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : 1.913
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -309.022
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -6.717
+TNS   : -641.046
+
+Type  : Slow 1200mV 0C Model Setup 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : -2.011
+TNS   : -2.011
+
+Type  : Slow 1200mV 0C Model Hold 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : -0.402
+TNS   : -0.402
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -0.041
+TNS   : -0.041
+
+Type  : Slow 1200mV 0C Model Recovery 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : -1.912
+TNS   : -1.912
+
+Type  : Slow 1200mV 0C Model Removal 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : 1.779
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -309.301
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -3.716
+TNS   : -301.069
+
+Type  : Fast 1200mV 0C Model Setup 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : -0.973
+TNS   : -0.973
+
+Type  : Fast 1200mV 0C Model Hold 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : -0.259
+TNS   : -0.259
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -0.003
+TNS   : -0.003
+
+Type  : Fast 1200mV 0C Model Recovery 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : -0.762
+TNS   : -0.762
+
+Type  : Fast 1200mV 0C Model Removal 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : 1.024
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -331.451
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'arm:arm_1|DataPath:DataPath1|VIC:VIC0|irq1_ech[0]'
+Slack : 0.415
+TNS   : 0.000
+
+------------------------------------------------------------

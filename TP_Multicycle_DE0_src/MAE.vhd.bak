@@ -1,0 +1,16 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity MAE is port(
+	CLK, RST, IRQ, N : in std_logic;
+	INST_MEM, INST_REG : in std_logic_vector(31 downto 0);
+	IRQ_SERV : out std_logic;
+	COMMANDES : out std_logic_vector(19 downto 0)
+);
+end entity;
+
+architecture RTL of MAE is
+	signal Isr : std_logic;
+begin
+	
